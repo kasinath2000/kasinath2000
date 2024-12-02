@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kasinath2000
-- 👀 I’m interested in ...Front-end web development
+- 👋 Hi, I’m Kasinath Mandal , @kasinath2000
+- 👀 Skills and Technologies: Front-End: React, Next.js, JavaScript, HTML, CSS Back-End: Node.js, Express.js, Databases: MongoDB, 🌱 Currently Learning: I am actively expanding my skill
 - 🌱 I’m currently learning ... react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...` E-mail : kasi21.12.2000@gmail.com  Linkdin : www.linkedin.com/in/kasinath-mandal-a5a6621ba
